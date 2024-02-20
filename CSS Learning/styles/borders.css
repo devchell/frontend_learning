@@ -1,0 +1,11 @@
+h1 {
+    border: 3px dashed rgb(113, 15, 226);
+    border-radius: 10px;
+}
+
+p {
+    border-bottom: 3px solid hsl(212, 88%, 50%);
+    border-top: 3px dotted tomato;
+    border-right: 3px inset mediumaquamarine;
+    border-left: 3px ridge rgb(234, 0, 255);
+}

@@ -1,0 +1,10 @@
+h1 {
+    font-family: verdana, arial;
+}
+
+p {
+    font-family: "Open Sans", "Verdana", "Lucida Sans";
+    font-size: 1.1em;
+    font-weight: bold;
+    font-style: italic;
+}
