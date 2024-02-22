@@ -1,0 +1,21 @@
+#container {
+    border: 2px solid;
+    font-size: 20px;
+}
+
+#container p {
+    background-color: rgb(255, 255, 108);
+}
+
+#container > p {
+    color: crimson;
+    font-weight: bold;
+}
+
+#container ~ p {
+    font-style: italic;
+}
+
+#container2 + p {
+    background-color: aqua;
+}
